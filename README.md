@@ -19,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/anushkamishra7355/dailyhustle/tree/master/0389-find-the-difference) |
+## Array
+|  |
+| ------- |
+| [0396-rotate-function](https://github.com/anushkamishra7355/dailyhustle/tree/master/0396-rotate-function) |
+## Math
+|  |
+| ------- |
+| [0396-rotate-function](https://github.com/anushkamishra7355/dailyhustle/tree/master/0396-rotate-function) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0396-rotate-function](https://github.com/anushkamishra7355/dailyhustle/tree/master/0396-rotate-function) |
 <!---LeetCode Topics End-->
