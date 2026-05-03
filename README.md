@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/anushkamishra7355/dailyhustle/tree/master/0389-find-the-difference) |
+| [0796-rotate-string](https://github.com/anushkamishra7355/dailyhustle/tree/master/0796-rotate-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/anushkamishra7355/dailyhustle/tree/master/0396-rotate-function) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/anushkamishra7355/dailyhustle/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
