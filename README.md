@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/anushkamishra7355/dailyhustle/tree/master/0389-find-the-difference) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/anushkamishra7355/dailyhustle/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/anushkamishra7355/dailyhustle/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/anushkamishra7355/dailyhustle/tree/master/0796-rotate-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/anushkamishra7355/dailyhustle/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Bit Manipulation
 |  |
 | ------- |
