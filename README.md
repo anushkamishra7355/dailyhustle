@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/anushkamishra7355/dailyhustle/tree/master/0396-rotate-function) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/anushkamishra7355/dailyhustle/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Dynamic Programming
 |  |
 | ------- |
